@@ -6,3 +6,11 @@
 >_fontes_:
 >- TheHackerNews
 >- Uptycs 
+
+### 24/04/2023
+[Um grupo ligado ao governo Chines (APT41) conhecido nos reportes como HOODOO utilizou uma ferramenta (GC2) que implementa a infraestrutura dos serviços da Google pra atacar serviços de media taiwaneses e uma companhia de busca de emprego italiano](https://github.com/exoForce01/grupo-de-noticias/blob/main/APT41-ofusca-trafego-de-malware-usando-dominios-google.md)
+>_fontes_:
+>- TheHackerNews
+>- BleepingComputer
+>
+>  Conheça o projeto [GC2](https://github.com/looCiprian/GC2-sheet)
