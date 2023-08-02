@@ -1,6 +1,12 @@
 # grupo-de-noticias
 #### aqui irei colocar algumas noticias nas quais expliquei um pouco do malware ou exploit em questao e descrevo um pouco a situaçao em contexto
 
+### 24/07/2023
+[Tecnologia de transmissão cifrada de radio (TETRA:Terrestrial Trunked Radio) usada por organizações militares e privadas, pelo ministério de segurança de multiplos países europeus e pelo exercito brasileiro, além de organizações pelo mundo inteiros possuem uma serie de vulnerabilidades criticas](https://github.com/exoForce01/grupo-de-noticias/blob/main/TETRAburst-vulnerabilidade-critica-implementada-pelo-exercito.md)
+>_fontes_:
+>- Midnight Blue
+>- Wired
+
 ### 17/07/2023
 [Apple corrige falha de segurança critica (zero-day) que afeta o motor de renderização (WebKit) do safari que podia permitir execução de codigo remoto (CVE-2023-37450)](https://github.com/exoForce01/grupo-de-noticias/blob/main/apple-corrige-zeroday.md)
 >_fontes_:
