@@ -12,4 +12,8 @@ Acho que já fico claro o quanto a segurança deste protocolo eh critica a níve
 o nucleo do algoritmo de criptografia destes pacotes é privativo, chamados _TETRA Authentication Algorithm_ <sup>(TAA1)</sup>  (há varias propriedades interessantes neste sistema) mas uma questão bastante relevante é que **_este modelo de politicas é uma violação do principio em criptografia de Kerckhoffs_** (apenas a chave deve ser sigilosa, o sistema não)
 esta serie de vulnerabilidades foram descobertas em 2022, mas apenas devidamente documentadas agora já que os pesquisadores quiseram dar um tempo as organizações e provedores de implementarem patchs, porém algumas desta vulnerabilidades não podem ser devidamente corrigidas e muitos deste provedores nem sequer chegaram a responder os pesquisadores (como é o caso da Motorola que prove os dispositivos do exercito brasileiro implementando TETRA)
 
-![TETRA details]()
+![TETRA details](https://github.com/exoForce01/grupo-de-noticias/blob/exoForce01-images/tetraburst-details.png?raw=true)
+
+
+
+*@rubyofsec* \ *0x177*
