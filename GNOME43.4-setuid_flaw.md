@@ -1,4 +1,4 @@
-## vulnerabilidade presente no GNOME Files 43.4 (_nautilus_) permite escalaçao local de privilegios  
+## vulnerabilidade presente no GNOME Files 43.4 (_nautilus_) permite escalaçao local de privilegios ao preservar bit identificador `setuid` 
 
 esta vulnerabilidade existe porque o *nautilus* extrai os arquivos preservando seu`setuid` (*ou seja, em vez de executar o binario com as permissões do usuario que lançou, eh executado com as permissões do usuario que o criou, ou neste caso, extraiu o arquivo*). 
 
@@ -7,7 +7,7 @@ Uma vez que um usuario '_A_' com permissões elevadas extraia um arquivo 'F' (te
 
 
 
-> [0daytoday (George Guninsky)](https://0day.today/exploit/38962)
+> - [0daytoday (George Guninsky)](https://0day.today/exploit/38962)
 
 
 *0x177*
