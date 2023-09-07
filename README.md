@@ -1,6 +1,11 @@
 # grupo-de-noticias
 #### aqui irei colocar algumas noticias nas quais expliquei um pouco do malware ou exploit em questao e descrevo um pouco a situaçao em contexto
 
+### 08/09/2023 
+[Vulnerabilidade existente no GNOME Files 43.4 (_nautilus_) permite escalaçao local de privilegios ](https://github.com/0x177git/grupo-de-noticias/blob/main/GNOME43.4-setuid_flaw.md)
+>_fonte_:
+>- Georgi Guninski (0day.today)
+
 ### 22/08/2023
 [Grupo APT 29 (_ligado ao serviço de inteligência estrangeira da Rússia_) enviou versões do malware Duke através de PDF's que diziam ser "Convites da Embaixada Alemã" pra ministros e negociantes de países membros da OTAN](https://github.com/0x177git/grupo-de-noticias/blob/main/APT_29_ataque_usando_pdfs_como%20vetor_de%20inje%C3%A7%C3%A3o_OTAN.md)
 >_fontes_:
